@@ -1,0 +1,2 @@
+$execute as @s[tag=copperrustIsWaterlogged] run function copperrust:macro_rusting/placing/place_block {block:"$(block)", blockstates:"$(subwater)waterlogged=true"}
+$execute as @s[tag=copperrustNotWaterlogged] run function copperrust:macro_rusting/placing/place_block {block:"$(block)", blockstates:"$(subwater)waterlogged=false"}

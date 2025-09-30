@@ -1,0 +1,11 @@
+execute as @s if predicate copperrust:hotbar_0_item_frame run item modify entity @s hotbar.0 copperrust:item_frame_to_bat_egg
+execute as @s if predicate copperrust:hotbar_1_item_frame run item modify entity @s hotbar.1 copperrust:item_frame_to_bat_egg
+execute as @s if predicate copperrust:hotbar_2_item_frame run item modify entity @s hotbar.2 copperrust:item_frame_to_bat_egg
+execute as @s if predicate copperrust:hotbar_3_item_frame run item modify entity @s hotbar.3 copperrust:item_frame_to_bat_egg
+execute as @s if predicate copperrust:hotbar_4_item_frame run item modify entity @s hotbar.4 copperrust:item_frame_to_bat_egg
+execute as @s if predicate copperrust:hotbar_5_item_frame run item modify entity @s hotbar.5 copperrust:item_frame_to_bat_egg
+execute as @s if predicate copperrust:hotbar_6_item_frame run item modify entity @s hotbar.6 copperrust:item_frame_to_bat_egg
+execute as @s if predicate copperrust:hotbar_7_item_frame run item modify entity @s hotbar.7 copperrust:item_frame_to_bat_egg
+execute as @s if predicate copperrust:hotbar_8_item_frame run item modify entity @s hotbar.8 copperrust:item_frame_to_bat_egg
+execute as @s if predicate copperrust:mainhand_bat_egg run item modify entity @s weapon.mainhand copperrust:bat_egg_to_item_frame
+execute as @s if predicate copperrust:offhand_bat_egg run item modify entity @s weapon.offhand copperrust:bat_egg_to_item_frame

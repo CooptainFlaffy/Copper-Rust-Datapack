@@ -1,0 +1,2 @@
+$execute as @s[tag=copperrustDoorUpper] run function copperrust:macro_rusting/door_blocks/upper_door_placer {block:"$(block)", blockstates:"$(subhalf)"}
+$execute as @s[tag=copperrustDoorLower] run function copperrust:macro_rusting/door_blocks/lower_door_placer {block:"$(block)", blockstates:"$(subhalf)"}

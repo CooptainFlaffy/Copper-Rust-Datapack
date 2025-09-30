@@ -1,0 +1,3 @@
+$execute as @s[tag=copperrustSlabBottom] run function copperrust:macro_rusting/placing/waterlogged_assigner {block:"$(block)", subwater:"type=bottom,"}
+$execute as @s[tag=copperrustSlabTop] run function copperrust:macro_rusting/placing/waterlogged_assigner {block:"$(block)", subwater:"type=top,"}
+$execute as @s[tag=copperrustSlabDouble] run function copperrust:macro_rusting/placing/waterlogged_assigner {block:"$(block)", subwater:"type=double,"}

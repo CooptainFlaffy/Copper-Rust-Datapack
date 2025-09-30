@@ -1,0 +1,2 @@
+$execute as @s[tag=copperrustDoorHingeLeft] run function copperrust:macro_rusting/door_blocks/open_assigner {block:"$(block)", subopen:"$(subhinge),hinge=left"}
+$execute as @s[tag=copperrustDoorHingeRight] run function copperrust:macro_rusting/door_blocks/open_assigner {block:"$(block)", subopen:"$(subhinge),hinge=right"}

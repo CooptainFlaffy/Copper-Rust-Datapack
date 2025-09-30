@@ -1,0 +1,1 @@
+execute as @a[scores={stripped_this_tick=1}] run scoreboard players set @s stripped_this_tick 0

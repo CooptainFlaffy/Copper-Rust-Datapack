@@ -1,0 +1,2 @@
+$execute as @s[tag=copperrustLanternIsHanging] run function copperrust:macro_rusting/placing/waterlogged_assigner {block:"$(block)", subwater:"hanging=true,"}
+$execute as @s[tag=copperrustLanternNotHanging] run function copperrust:macro_rusting/placing/waterlogged_assigner {block:"$(block)", subwater:"hanging=false,"}

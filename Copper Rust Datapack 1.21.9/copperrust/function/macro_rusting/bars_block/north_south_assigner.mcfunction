@@ -1,0 +1,4 @@
+$execute as @s[tag=copperrustBarsIsNorth, tag=copperrustBarsIsSouth] run function copperrust:macro_rusting/bars_block/east_west_assigner {block:"$(block)", ns:"north=true,south=true"}
+$execute as @s[tag=copperrustBarsIsNorth, tag=copperrustBarsNotSouth] run function copperrust:macro_rusting/bars_block/east_west_assigner {block:"$(block)", ns:"north=true,south=false"}
+$execute as @s[tag=copperrustBarsNotNorth, tag=copperrustBarsNotSouth] run function copperrust:macro_rusting/bars_block/east_west_assigner {block:"$(block)", ns:"north=false,south=false"}
+$execute as @s[tag=copperrustBarsNotNorth, tag=copperrustBarsIsSouth] run function copperrust:macro_rusting/bars_block/east_west_assigner {block:"$(block)", ns:"north=false,south=true"}

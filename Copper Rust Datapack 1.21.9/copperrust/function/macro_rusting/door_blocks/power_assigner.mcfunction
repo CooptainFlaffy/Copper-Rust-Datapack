@@ -1,0 +1,2 @@
+$execute as @s[tag=copperrustDoorPowered] run function copperrust:macro_rusting/door_blocks/half_assigner {block:"$(block)", subhalf:"$(subpower),powered=true"}
+$execute as @s[tag=copperrustDoorUnpowered] run function copperrust:macro_rusting/door_blocks/half_assigner {block:"$(block)", subhalf:"$(subpower),powered=false"}

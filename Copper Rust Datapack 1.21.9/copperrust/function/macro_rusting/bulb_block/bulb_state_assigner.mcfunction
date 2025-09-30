@@ -1,0 +1,4 @@
+$execute as @s[tag=copperrustBulbIsLit,tag=copperrustBulbIsPowered] run function copperrust:macro_rusting/placing/place_block {block:"$(block)", blockstates:"lit=true,powered=true"}
+$execute as @s[tag=copperrustBulbIsLit,tag=copperrustBulbNotPowered] run function copperrust:macro_rusting/placing/place_block {block:"$(block)", blockstates:"lit=true,powered=false"}
+$execute as @s[tag=copperrustBulbNotLit,tag=copperrustBulbNotPowered] run function copperrust:macro_rusting/placing/place_block {block:"$(block)", blockstates:"lit=false,powered=false"}
+$execute as @s[tag=copperrustBulbNotLit,tag=copperrustBulbIsPowered] run function copperrust:macro_rusting/placing/place_block {block:"$(block)", blockstates:"lit=false,powered=true"}

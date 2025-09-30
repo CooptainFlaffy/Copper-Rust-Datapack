@@ -1,0 +1,2 @@
+$execute as @s[tag=copperrustIsTopHalf] run function copperrust:macro_rusting/placing/direction_assigner {block:"$(block)", subface:"$(subhalf)half=top,"}
+$execute as @s[tag=copperrustIsBottomHalf] run function copperrust:macro_rusting/placing/direction_assigner {block:"$(block)", subface:"$(subhalf)half=bottom,"}

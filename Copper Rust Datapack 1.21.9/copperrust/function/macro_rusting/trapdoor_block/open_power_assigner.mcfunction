@@ -1,0 +1,4 @@
+$execute as @s[tag=copperrustIsOpen, tag=copperrustIsPowered] run function copperrust:macro_rusting/placing/half_assigner {block:"$(block)", subhalf:"open=true,powered=true,"}
+$execute as @s[tag=copperrustIsOpen, tag=copperrustNotPowered] run function copperrust:macro_rusting/placing/half_assigner {block:"$(block)", subhalf:"open=true,powered=false,"}
+$execute as @s[tag=copperrustNotOpen, tag=copperrustNotPowered] run function copperrust:macro_rusting/placing/half_assigner {block:"$(block)", subhalf:"open=false,powered=false,"}
+$execute as @s[tag=copperrustNotOpen, tag=copperrustIsPowered] run function copperrust:macro_rusting/placing/half_assigner {block:"$(block)", subhalf:"open=false,powered=true,"}

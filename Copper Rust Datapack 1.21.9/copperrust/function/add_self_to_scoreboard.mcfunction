@@ -1,0 +1,1 @@
+scoreboard players set @s static_crafting_tables_used 0

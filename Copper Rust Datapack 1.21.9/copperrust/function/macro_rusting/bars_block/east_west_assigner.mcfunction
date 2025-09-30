@@ -1,0 +1,4 @@
+$execute as @s[tag=copperrustBarsIsEast, tag=copperrustBarsIsWest] run function copperrust:macro_rusting/placing/waterlogged_assigner {block:"$(block)", subwater:"$(ns),east=true,west=true,"}
+$execute as @s[tag=copperrustBarsIsEast, tag=copperrustBarsNotWest] run function copperrust:macro_rusting/placing/waterlogged_assigner {block:"$(block)", subwater:"$(ns),east=true,west=false,"}
+$execute as @s[tag=copperrustBarsNotEast, tag=copperrustBarsNotWest] run function copperrust:macro_rusting/placing/waterlogged_assigner {block:"$(block)", subwater:"$(ns),east=false,west=false,"}
+$execute as @s[tag=copperrustBarsNotEast, tag=copperrustBarsIsWest] run function copperrust:macro_rusting/placing/waterlogged_assigner {block:"$(block)", subwater:"$(ns),east=false,west=true,"}

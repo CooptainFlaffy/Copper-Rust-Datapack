@@ -1,0 +1,4 @@
+$execute as @s[tag=copperrustStatueStanding] run function copperrust:macro_rusting/placing/direction_assigner {block:"$(block)", subface:"copper_golem_pose=standing,"}
+$execute as @s[tag=copperrustStatueSitting] run function copperrust:macro_rusting/placing/direction_assigner {block:"$(block)", subface:"copper_golem_pose=sitting,"}
+$execute as @s[tag=copperrustStatueRunning] run function copperrust:macro_rusting/placing/direction_assigner {block:"$(block)", subface:"copper_golem_pose=running,"}
+$execute as @s[tag=copperrustStatueStar] run function copperrust:macro_rusting/placing/direction_assigner {block:"$(block)", subface:"copper_golem_pose=star,"}

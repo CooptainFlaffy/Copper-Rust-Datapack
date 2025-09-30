@@ -1,0 +1,2 @@
+execute as @s if predicate copperrust:mainhand_item_frame unless predicate copperrust:max_stack run item modify entity @s weapon.mainhand copperrust:increase
+execute as @s unless predicate copperrust:mainhand_item_frame run give @s bat_spawn_egg[item_name="Copper Rust Powder",entity_data={id:player}] 1

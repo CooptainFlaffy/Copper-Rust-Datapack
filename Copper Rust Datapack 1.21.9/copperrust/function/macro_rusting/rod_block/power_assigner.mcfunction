@@ -1,0 +1,2 @@
+$execute as @s[tag=copperrustIsPowered] run function copperrust:macro_rusting/placing/direction_assigner {block:"$(block)", subface:"powered=true,"}
+$execute as @s[tag=copperrustNotPowered] run function copperrust:macro_rusting/placing/direction_assigner {block:"$(block)", subface:"powered=false,"}

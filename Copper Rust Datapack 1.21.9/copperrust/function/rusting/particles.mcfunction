@@ -1,0 +1,1 @@
+execute as @s at @s align xyz run particle scrape ~0.5 ~0.5 ~0.5 0.3 0.3 0.3 0.9 50 normal @a

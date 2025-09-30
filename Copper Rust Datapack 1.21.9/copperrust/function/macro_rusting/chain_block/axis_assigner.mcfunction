@@ -1,0 +1,3 @@
+$execute as @s[tag=copperrustChainAxisX] run function copperrust:macro_rusting/placing/waterlogged_assigner {block:"$(block)", subwater:"axis=x,"}
+$execute as @s[tag=copperrustChainAxisY] run function copperrust:macro_rusting/placing/waterlogged_assigner {block:"$(block)", subwater:"axis=y,"}
+$execute as @s[tag=copperrustChainAxisZ] run function copperrust:macro_rusting/placing/waterlogged_assigner {block:"$(block)", subwater:"axis=z,"}

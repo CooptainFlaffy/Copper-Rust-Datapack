@@ -1,0 +1,1 @@
+execute positioned ^ ^ ^ align xyz run summon interaction ~0.5 ~-0.1 ~0.5 {Tags:[Marked],response:true}

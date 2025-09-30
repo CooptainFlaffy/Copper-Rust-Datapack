@@ -1,0 +1,2 @@
+$execute as @s[tag=copperrustDoorOpen] run function copperrust:macro_rusting/door_blocks/power_assigner {block:"$(block)", subpower:"$(subopen),open=true"}
+$execute as @s[tag=copperrustDoorClosed] run function copperrust:macro_rusting/door_blocks/power_assigner {block:"$(block)", subpower:"$(subopen),open=false"}

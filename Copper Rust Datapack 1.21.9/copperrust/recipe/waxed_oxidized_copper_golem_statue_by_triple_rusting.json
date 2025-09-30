@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "bat_spawn_egg",
+        "bat_spawn_egg",
+        "bat_spawn_egg",
+        "waxed_copper_golem_statue"
+    ],
+    "result": {
+        "id": "waxed_oxidized_copper_golem_statue"
+    },
+    "category": "building",
+    "group": "powder_rusting"
+}

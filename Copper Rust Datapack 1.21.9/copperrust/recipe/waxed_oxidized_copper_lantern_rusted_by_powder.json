@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "bat_spawn_egg",
+        "waxed_weathered_copper_lantern"
+    ],
+    "result": {
+        "id": "waxed_oxidized_copper_lantern"
+    },
+    "category": "building",
+    "group": "powder_rusting"
+}

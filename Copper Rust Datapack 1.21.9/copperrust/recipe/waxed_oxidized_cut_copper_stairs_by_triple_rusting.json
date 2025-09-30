@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "bat_spawn_egg",
+        "bat_spawn_egg",
+        "bat_spawn_egg",
+        "waxed_cut_copper_stairs"
+    ],
+    "result": {
+        "id": "waxed_oxidized_cut_copper_stairs"
+    },
+    "category": "building",
+    "group": "powder_rusting"
+}

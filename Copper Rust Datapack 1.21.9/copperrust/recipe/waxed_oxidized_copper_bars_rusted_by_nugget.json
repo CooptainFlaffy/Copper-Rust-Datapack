@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "waxed_weathered_copper_bars"
+    ],
+    "result": {
+        "id": "waxed_oxidized_copper_bars"
+    },
+    "category": "building",
+    "group": "nugget_rusting"
+}

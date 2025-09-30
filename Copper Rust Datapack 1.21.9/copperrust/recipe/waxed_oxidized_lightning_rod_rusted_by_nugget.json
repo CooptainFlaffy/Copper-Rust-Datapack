@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "waxed_weathered_lightning_rod"
+    ],
+    "result": {
+        "id": "waxed_oxidized_lightning_rod"
+    },
+    "category": "building",
+    "group": "nugget_rusting"
+}

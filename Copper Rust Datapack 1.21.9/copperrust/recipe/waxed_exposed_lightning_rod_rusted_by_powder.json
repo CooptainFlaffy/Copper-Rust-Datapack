@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "bat_spawn_egg",
+        "waxed_lightning_rod"
+    ],
+    "result": {
+        "id": "waxed_exposed_lightning_rod"
+    },
+    "category": "building",
+    "group": "powder_rusting"
+}

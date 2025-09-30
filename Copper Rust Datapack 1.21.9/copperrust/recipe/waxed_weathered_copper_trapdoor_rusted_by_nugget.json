@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "waxed_exposed_copper_trapdoor"
+    ],
+    "result": {
+        "id": "waxed_weathered_copper_trapdoor"
+    },
+    "category": "building",
+    "group": "nugget_rusting"
+}

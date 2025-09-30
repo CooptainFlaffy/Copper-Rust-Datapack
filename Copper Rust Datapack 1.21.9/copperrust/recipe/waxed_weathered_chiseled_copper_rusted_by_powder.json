@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "bat_spawn_egg",
+        "waxed_exposed_chiseled_copper"
+    ],
+    "result": {
+        "id": "waxed_weathered_chiseled_copper"
+    },
+    "category": "building",
+    "group": "powder_rusting"
+}

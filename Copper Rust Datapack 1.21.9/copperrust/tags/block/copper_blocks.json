@@ -1,0 +1,10 @@
+{
+    "values": [
+        "copper_block",
+        "waxed_copper_block",
+        "exposed_copper",
+        "waxed_exposed_copper",
+        "weathered_copper",
+        "waxed_weathered_copper"
+    ]
+}

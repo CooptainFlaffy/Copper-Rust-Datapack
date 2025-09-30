@@ -1,0 +1,28 @@
+{
+    "values": [
+        "copper_block",
+        "exposed_copper",
+        "weathered_copper",
+        "waxed_copper_block",
+        "waxed_exposed_copper",
+        "waxed_weathered_copper",
+        "chiseled_copper",
+        "exposed_chiseled_copper",
+        "weathered_chiseled_copper",
+        "waxed_chiseled_copper",
+        "waxed_exposed_chiseled_copper",
+        "waxed_weathered_chiseled_copper",
+        "cut_copper",
+        "exposed_cut_copper",
+        "weathered_cut_copper",
+        "waxed_cut_copper",
+        "waxed_exposed_cut_copper",
+        "waxed_weathered_cut_copper",
+        "copper_grate",
+        "waxed_copper_grate",
+        "exposed_copper_grate",
+        "waxed_exposed_copper_grate",
+        "weathered_copper_grate",
+        "waxed_weathered_copper_grate"
+    ]
+}

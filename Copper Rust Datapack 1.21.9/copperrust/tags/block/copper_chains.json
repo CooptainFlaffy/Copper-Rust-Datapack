@@ -1,0 +1,10 @@
+{
+    "values": [
+        "copper_chain",
+        "exposed_copper_chain",
+        "weathered_copper_chain",
+        "waxed_copper_chain",
+        "waxed_exposed_copper_chain",
+        "waxed_weathered_copper_chain"
+    ]
+}

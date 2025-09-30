@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "slots": {
+        "weapon.offhand": {
+          "items": "minecraft:bat_spawn_egg",
+          "components": {
+            "minecraft:item_name": "Copper Rust Powder"
+          }
+        }
+      }
+    }
+  }

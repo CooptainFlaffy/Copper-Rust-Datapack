@@ -1,0 +1,19 @@
+{
+    "values": [
+        "#copperrust:copper_blocks",
+        "#copperrust:chiseled_coppers",
+        "#copperrust:copper_grates",
+        "#copperrust:cut_copper_blocks",
+        "#copperrust:copper_stairs",
+        "#copperrust:copper_slabs",
+        "#copperrust:copper_doors",
+        "#copperrust:copper_trapdoors",
+        "#copperrust:copper_bulbs",
+        "#copperrust:copper_bars",
+        "#copperrust:copper_chains",
+        "#copperrust:copper_lanterns",
+        "#copperrust:copper_golem_statues",
+        "#copperrust:lightning_rods",
+        "#copperrust:copper_chests"
+    ]
+}

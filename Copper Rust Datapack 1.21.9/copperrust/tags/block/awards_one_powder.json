@@ -1,0 +1,25 @@
+{
+    "values": [
+        "oxidized_copper",
+        "weathered_copper",
+        "exposed_copper",
+        "oxidized_copper_door",
+        "weathered_copper_door",
+        "exposed_copper_door",
+        "oxidized_copper_trapdoor",
+        "weathered_copper_trapdoor",
+        "exposed_copper_trapdoor",
+        "oxidized_copper_bars",
+        "weathered_copper_bars",
+        "exposed_copper_bars",
+        "oxidized_copper_chain",
+        "weathered_copper_chain",
+        "exposed_copper_chain",
+        "oxidized_copper_lantern",
+        "weathered_copper_lantern",
+        "exposed_copper_lantern",
+        "oxidized_lightning_rod",
+        "weathered_lightning_rod",
+        "exposed_lightning_rod"
+    ]
+}

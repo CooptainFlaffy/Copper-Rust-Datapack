@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "slots": {
+        "inventory.26": {
+          "items": "minecraft:glow_item_frame",
+          "components": {
+            "minecraft:item_name": "Copper Rust Powder"
+          }
+        }
+      }
+    }
+  }

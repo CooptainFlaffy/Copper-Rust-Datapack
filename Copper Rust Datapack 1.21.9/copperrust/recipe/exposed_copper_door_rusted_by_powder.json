@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "bat_spawn_egg",
+        "copper_door"
+    ],
+    "result": {
+        "id": "exposed_copper_door"
+    },
+    "category": "building",
+    "group": "powder_rusting"
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "bat_spawn_egg",
+        "weathered_copper_chain"
+    ],
+    "result": {
+        "id": "oxidized_copper_chain"
+    },
+    "category": "building",
+    "group": "powder_rusting"
+}

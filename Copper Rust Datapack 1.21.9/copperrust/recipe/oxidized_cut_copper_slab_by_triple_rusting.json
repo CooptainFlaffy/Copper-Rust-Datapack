@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "bat_spawn_egg",
+        "bat_spawn_egg",
+        "bat_spawn_egg",
+        "cut_copper_slab"
+    ],
+    "result": {
+        "id": "oxidized_cut_copper_slab"
+    },
+    "category": "building",
+    "group": "powder_rusting"
+}

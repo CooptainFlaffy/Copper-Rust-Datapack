@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "bat_spawn_egg",
+        "bat_spawn_egg",
+        "bat_spawn_egg",
+        "copper_trapdoor"
+    ],
+    "result": {
+        "id": "oxidized_copper_trapdoor"
+    },
+    "category": "building",
+    "group": "powder_rusting"
+}

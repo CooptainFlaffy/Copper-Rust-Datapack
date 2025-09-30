@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg"
+    ],
+    "category": "misc",
+    "result": {
+        "id": "bat_spawn_egg",
+        "components": {
+            "item_name": "Copper Rust Powder",
+            "entity_data": {
+                "id": "player"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "zombie_horse_spawn_egg",
+        "cut_copper_stairs"
+    ],
+    "result": {
+        "id": "exposed_cut_copper_stairs"
+    },
+    "category": "building",
+    "group": "nugget_rusting"
+}

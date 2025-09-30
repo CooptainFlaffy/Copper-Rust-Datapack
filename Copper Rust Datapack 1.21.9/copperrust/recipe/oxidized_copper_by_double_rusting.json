@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "bat_spawn_egg",
+        "bat_spawn_egg",
+        "exposed_copper"
+    ],
+    "result": {
+        "id": "oxidized_copper"
+    },
+    "category": "building",
+    "group": "powder_rusting"
+}

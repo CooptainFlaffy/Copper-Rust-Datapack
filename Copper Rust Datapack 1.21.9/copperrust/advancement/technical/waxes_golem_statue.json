@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "waxes_golem_statue": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": "minecraft:glow_item_frame",
+          "components": {
+            "minecraft:item_name": "Copper Rust Powder"
+          }
+        },
+        "entity": {
+          "type": "minecraft:interaction"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "copperrust:remove_rust"
+  }
+}

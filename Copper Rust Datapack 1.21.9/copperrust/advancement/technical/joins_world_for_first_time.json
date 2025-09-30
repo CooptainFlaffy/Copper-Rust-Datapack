@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "joins_world_for_first_time": {
+            "trigger": "tick"
+        }
+    },
+    "rewards": {
+        "function": "copperrust:add_self_to_scoreboard"
+    }
+}

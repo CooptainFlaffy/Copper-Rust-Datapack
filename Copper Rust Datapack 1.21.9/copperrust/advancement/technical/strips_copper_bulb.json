@@ -1,0 +1,28 @@
+{
+    "criteria": {
+        "strips_copper_slab": {
+            "trigger": "item_used_on_block",
+            "conditions": {
+                "location": [
+                    {
+                        "condition": "minecraft:match_tool",
+                        "predicate": {
+                            "items": "#axes"
+                        }
+                    },
+                    {
+                        "condition": "location_check",
+                        "predicate": {
+                            "block": {
+                                "blocks": "#copperrust:awards_six_nuggets"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "copperrust:stripped_bulb"
+    }
+}

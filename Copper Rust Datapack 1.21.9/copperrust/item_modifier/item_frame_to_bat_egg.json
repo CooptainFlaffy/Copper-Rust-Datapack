@@ -1,0 +1,14 @@
+[
+    {
+        "function": "set_item",
+        "item": "bat_spawn_egg"
+    },
+    {
+        "function": "set_components",
+        "components": {
+            "entity_data": {
+                "id": "player"
+            }
+        }
+    }
+]

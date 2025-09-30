@@ -1,0 +1,18 @@
+[
+    {
+        "function": "set_item",
+        "item": "glow_item_frame"
+    },
+    {
+        "function": "set_components",
+        "components": {
+            "entity_data": {
+                "id": "glow_item_frame",
+                "Tags": [
+                    "Ruster"
+                ],
+                "Invisible": true
+            }
+        }
+    }
+]
